@@ -1,0 +1,2 @@
+Icons - https://github.com/devicons/devicon/tree/master/icons/
+Badges - https://github.com/Envoy-VC/awesome-badges
